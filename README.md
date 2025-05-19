@@ -53,6 +53,14 @@ To explore the healthcare insurance dataset and extract insights about how vario
 - Practice in identifying skewness and outliers
 - Visualization of distribution trends across numerical and categorical features
 
+## 🔗 Other Projects of this Internship
+
+- **Project 1: Amazon E-commerce Purchase Analysis**  
+  [GitHub Link](https://github.com/raunak-choudhary/Amazon-Ecommerce-Purchase-Analysis-Data-Science-Internship-2020.git)
+
+- **Project 3: LaLiga Statistics Analysis**  
+  [GitHub Link](https://github.com/raunak-choudhary/LaLiga-Statistics-Analysis-Data-Science-Internship-2020.git)
+
 ## 👨‍💻 Author
 
 **Raunak Choudhary**  
